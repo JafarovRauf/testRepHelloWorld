@@ -1,0 +1,7 @@
+c:\users\mahm_iz81\source\repos\testHelloWorld\testHelloWorld\bin\Debug\testHelloWorld.exe.config
+c:\users\mahm_iz81\source\repos\testHelloWorld\testHelloWorld\bin\Debug\testHelloWorld.exe
+c:\users\mahm_iz81\source\repos\testHelloWorld\testHelloWorld\bin\Debug\testHelloWorld.pdb
+c:\users\mahm_iz81\source\repos\testHelloWorld\testHelloWorld\obj\Debug\testHelloWorld.csprojAssemblyReference.cache
+c:\users\mahm_iz81\source\repos\testHelloWorld\testHelloWorld\obj\Debug\testHelloWorld.csproj.CoreCompileInputs.cache
+c:\users\mahm_iz81\source\repos\testHelloWorld\testHelloWorld\obj\Debug\testHelloWorld.exe
+c:\users\mahm_iz81\source\repos\testHelloWorld\testHelloWorld\obj\Debug\testHelloWorld.pdb
